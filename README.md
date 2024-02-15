@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="styles_1.css">
 </head>
 <body>
-  <header>
+  <headerr>
       <img src="profile-picture.png" alt="Your Name" class="profile-img">
       <h1>Your Name</h1>
       <p>Web Developer, Programmer, and Tech Student</p>
@@ -42,4 +42,4 @@
       <p>Contact me at <a href="mailto:your.name@example.com">your.name@example.com</a></p>
   </footer>
 </body>
-</html>
+</htmi>
